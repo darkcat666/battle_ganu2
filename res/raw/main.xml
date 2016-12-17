@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:clickable="true"
+    android:gravity="bottom"
+    android:orientation="horizontal" >
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_gravity="bottom"
+        android:onClick="onClickNormalButton"
+        android:text="@string/normal" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:onClick="onClickAutoButton"
+        android:text="@string/Auto" />
+
+</LinearLayout>

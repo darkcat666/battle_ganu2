@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Game1Activity!</string>
+    <string name="app_name">バトル・マニアーズ</string>
+    <string name="string_exit">ゲーム終了</string>
+    <string name="go_title">タイトルに戻る</string>
+    <string name="normal">Normal…</string>
+    <string name="Auto">Auto!!</string>
+</resources>
